@@ -4,6 +4,8 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=6495ED&size=25&center=false&lines=hey!+its+Chandrashekharjoshi;Full-stack-web-developer..., MERN Stack Developer)](https://git.io/typing-svg)
+
 ## 🙋‍♂️ About Me
 
 - 🔭  I’m currently learning **Full Stack Web Development course** at **Masai School**
