@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-## 🚀 Languages and Tools:
+<!-- ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.next.js.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" width="40px" height="40px"/> </a>
@@ -81,4 +81,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Yogesh NisahdRaoniar28">
 </a>
-<a href="https://github.com/Yogesh NisahdRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Yogesh NisahdRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Yogesh NisahdRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Yogesh NisahdRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
