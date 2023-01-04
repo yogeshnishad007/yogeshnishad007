@@ -9,7 +9,7 @@
 
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Learner ></h3>
+Programmer | Learner </h3>
 
 
 
