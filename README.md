@@ -130,17 +130,14 @@ Programmer | Learner </h3>
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/yogesh-nishad-7954ba229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    
-
-
-
 <img width=100% title="yogeshnishad007" alt="yogeshnishad007"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,18,20&height=160&section=footer&fontSize=16&fontColor=fff&animation=twinkling"/>
 <div>
 
   🚀  Thank You for view my GitHub Profile  🚀 </h3>
 
 </div>
+    
+
+
+
+
