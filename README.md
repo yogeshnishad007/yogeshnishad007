@@ -135,14 +135,12 @@ Programmer | Learner </h3>
 
 <a href = "https://www.linkedin.com/in/yogesh-nishad-7954ba229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     
-<!-- <a href = "https://twitter.com/Yogesh Nisahdraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Yogesh Nisahdraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
-<!-- 
-</p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Yogesh NisahdRaoniar28">
-</a>
-<a href="https://github.com/Yogesh NisahdRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Yogesh NisahdRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
+
+<img width=100% title="yogeshnishad007" alt="yogeshnishad007"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,18,20&height=160&section=footer&fontSize=16&fontColor=fff&animation=twinkling"/>
+<div>
+
+  🚀  Thank You for view my GitHub Profile  🚀 </h3>
+
+</div>
