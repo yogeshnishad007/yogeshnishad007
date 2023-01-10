@@ -80,6 +80,15 @@ Programmer | Learner </h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
+<img width=100% title="devendra684" alt="devendra684"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,18,20&height=160&section=footer&fontSize=16&fontColor=fff&animation=twinkling"/>
+<div>
+<h3 align="center">
+
+  🚀 Thank You for view my GitHub Profile 🚀 </h3>
+
+</div>
+
+
 
 
 <!-- ## 🚀 Languages and Tools:
