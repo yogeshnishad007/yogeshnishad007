@@ -75,12 +75,12 @@ Programmer | Learner </h3>
 <br/>
 <br/>
   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yogeshnishad007&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshnishad007" /> </p>
 
 
 
 
-<img width=100% title="devendra684" alt="devendra684"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,18,20&height=160&section=footer&fontSize=16&fontColor=fff&animation=twinkling"/>
+<img width=100% title="yogeshnishad007" alt="yogeshnishad007"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,18,20&height=160&section=footer&fontSize=16&fontColor=fff&animation=twinkling"/>
 <div>
 <h3 align="center">
 
