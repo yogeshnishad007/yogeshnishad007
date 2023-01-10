@@ -77,7 +77,7 @@ Programmer | Learner </h3>
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 
 <img width=100% title="devendra684" alt="devendra684"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,18,20&height=160&section=footer&fontSize=16&fontColor=fff&animation=twinkling"/>
@@ -89,6 +89,7 @@ Programmer | Learner </h3>
 </div>
 
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 <!-- ## 🚀 Languages and Tools:
